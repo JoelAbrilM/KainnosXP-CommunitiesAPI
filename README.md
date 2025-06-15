@@ -1,2 +1,2 @@
-# KainnosXP-WalletAPI
-KainnosXP Wallet Control API
+KainnosXP-CommunitiesAPI
+KainnosXP Communities Control API
